@@ -8,21 +8,10 @@ A modern, responsive Movie Discovery Single Page Application (SPA) built for the
 
 **Live Website:** https://sprint-8-sgf6-psi.vercel.app/
 
-**Demo Video:** https://drive.google.com/file/d/18mbyflWz5fy0HGNbgURthUuKEZ89qxwM/view?usp=drivesdk
-
----
-
-# Screenshot
-
-https://github.com/Sarvesh-88/Sprint-8/blob/main/Sprint-8-img.png
-
----
-
 # Project Overview
 
 Netflix Lite is a React-based movie discovery application that allows users to browse popular movies and search for movies using the TMDB API. The application is designed with reusable components, clean architecture, and responsive UI principles.
 
----
 
 # Tech Stack
 
